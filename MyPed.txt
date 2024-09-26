@@ -1,0 +1,7 @@
+Daftar peliharaan 
+
+- ikan
+- burung
+- kucing
+- anjing
+- macan
